@@ -181,6 +181,11 @@ Since your project is ready to go, follow these commands to publish it to a GitH
    ```bash
    git push -u origin main
    ```
+## Demo 
+<img width="1024" height="517" alt="media__1781769483722" src="https://github.com/user-attachments/assets/3a5fa149-54ab-41fd-a48d-399217e93993" />
+<img width="1024" height="513" alt="media__1781769542045" src="https://github.com/user-attachments/assets/5978b29d-c830-49c1-94d6-61cd088a7d3e" />
+<img width="1024" height="514" alt="media__1781769577777" src="https://github.com/user-attachments/assets/9c0b21c6-63ef-4051-b24b-e54a0fbbfa05" />
+<img width="1914" height="972" alt="image" src="https://github.com/user-attachments/assets/e4de93ef-ada8-4a4d-9dd4-3942d7b6c7ad" />
 
 ---
 
